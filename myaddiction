@@ -1,0 +1,19 @@
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/grayscale.css" rel="stylesheet">
+<!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <section id="download" class="content-section text-center">
+        <div class="download-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    
+                    <p> I seriously need to stop drinking tea; oh, word of wisdom. Before I stop I just want to talk about my favorite flavors and tea places. I love earl gray, pearl, thai, and suuuper love jasmine milk tea (with tapioca of course). T4 and Quickly are OK. I made tea at home; it tasted beter haha. </p>
+                    <a target="_blank" href="http://www.chow.com/food-news/134275/the-boba-guys-jasmine-milk-tea-with-honey-boba/" class="btn btn-default btn-lg">Make your own tea!!!!</a>
+                </div>
+            </div>
+        </div>
+    </section>
